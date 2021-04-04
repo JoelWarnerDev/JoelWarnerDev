@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelWarnerDev
 - 👀 I’m interested in webapp and mobile development
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning JS, CSS, HTML
 - 📫 How to reach me @JoelWarnerDev
 
 <!---
